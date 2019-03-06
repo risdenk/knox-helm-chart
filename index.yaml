@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  knox:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-03-06T14:43:43.20559-05:00
+    description: A Helm chart for Kubernetes
+    digest: 18a32176f3a7a9d5277ebb203dc938516adddd8120bf44f541d4ab45f731324b
+    home: https://knox.apache.org/
+    maintainers:
+    - email: krisden@apache.org
+      name: Kevin Risden
+    name: knox
+    sources:
+    - https://github.com/risdenk/knox-helm-chart
+    urls:
+    - knox-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-03-06T14:43:43.204642-05:00
